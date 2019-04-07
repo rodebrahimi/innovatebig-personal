@@ -11,14 +11,15 @@
       <header>
         <ul class="nav">
           <li>
-            <a href="/">home<small>where the heart is</small></a>
+            <a href="/">home<small>start here</small></a>
           </li>
           <li>
-            <a href="/about">about<small>all about this</small></a>
+            <a href="/about">about<small>for the curious ones</small></a>
           </li>
         </ul>
         <h1>{{ title }}</h1>
-        {%- if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+        <!-- {%- if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %} -->
+        <p class="subtitle">Hello, my name is <a href="/about">Rod Ebrahimi</a>. This is a personal space where I explore ideas that - hopefully - improve how I think, work, and live.</p>
       </header>
       {{ content | safe }}
       {% include "footer.njk" %}
@@ -26,6 +27,3 @@
     </div>
   </body>
 </html>
-
-
-

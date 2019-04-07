@@ -1,11 +1,10 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: InnovateBig
+subtitle: Hello, my name is Rod Ebrahimi and this is where I share online.
 layout: layouts/base.njk
 ---
 
-
-## This site is a starting point
+## Start Here
 
 From this point we should already have:
 
@@ -15,7 +14,6 @@ From this point we should already have:
 - A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
 - JS [search index](/search.json) generator
 - Serverless (FaaS) development pipeline with Netlify Functions for Lambda
-
 
 ## Post pages
 
@@ -41,7 +39,6 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
   </li>
 {%- endfor -%}
 </ul>
-
 
 The data can be stashed locally by running:
 
