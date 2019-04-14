@@ -18,10 +18,10 @@
           </li>
         </ul>
         <h1>{{ title }}</h1>
-        {%- if subtitle %}
+        {% if subtitle %}
         <p class="subtitle">{{ subtitle }}</p>
-        {% else %} 
-        <p class="subtitle">👋 Hello, my name is <a href="/about">Rod Ebrahimi</a>.   This is where I write.</p>
+        {% else %}
+        <p class="subtitle">&#x1f44b; Hello, my name is <a href="/about">Rod Ebrahimi</a> and this is where I write.</p>
         {% endif %}
       </header>
       {{ content | safe }}

@@ -1,7 +1,7 @@
 ---
 title: About
 layout: layouts/base.njk
-subtitle: Another customary about page for inquiring minds.
+subtitle: Yes, this is that customary about page.
 ---
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
