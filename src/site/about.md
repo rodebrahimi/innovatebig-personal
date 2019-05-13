@@ -1,13 +1,13 @@
 ---
 title: About
 layout: layouts/base.njk
-subtitle: Yup, this is the customary about page you were expecting.
+subtitle: Is this the customary about page you were expecting?
 ---
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
 
 * I have been building socially-impactful fintech companies since 2010.
 * I once took a traditional wooden boatbuilding class and was extremely bad at it.
-* I enjoy fishing and being out on the ocean. I have participated in several competitive big game fishing tournaments.
-* I started an internet service provider for small businesses when I was 16 which led me to Silicon Valley for the first time to join a startup.
+* I enjoy fishing, being near and out on the ocean, and eating seafood. I have also participated in several competitive big game fishing tournaments.
+* I started an internet service provider for small businesses when I was 16 in the early dot-com days.
 * I have a degree in Cognitive Science and Human-Computer Interaction.
