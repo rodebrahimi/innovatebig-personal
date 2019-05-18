@@ -11,3 +11,4 @@ subtitle: Is this the customary about page you were expecting?
 * I enjoy fishing, being near and out on the ocean, and eating seafood. I have also participated in several competitive big game fishing tournaments.
 * I started an internet service provider for small businesses when I was 16 in the early dot-com days.
 * I have a degree in Cognitive Science and Human-Computer Interaction.
+* Other places online: [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)

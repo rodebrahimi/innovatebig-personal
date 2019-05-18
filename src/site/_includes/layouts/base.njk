@@ -14,7 +14,7 @@
             <a href="/">home<small>start here</small></a>
           </li>
           <li>
-            <a href="/about">about<small>for the curious ones</small></a>
+            <a href="/about">about<small>for the curious</small></a>
           </li>
         </ul>
         <h1>{{ title }}</h1>
@@ -25,6 +25,7 @@
         {% endif %}
       </header>
       {{ content | safe }}
+
       {% include "footer.njk" %}
       <script>{% include "js/scripts.js" %}</script>
     </div>
