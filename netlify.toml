@@ -3,3 +3,8 @@
   publish = "dist"
   NODE_ENV = "8.9.0"
   Functions = "functions"
+
+[[redirects]]
+  from = "/about"
+  to = "/rod-ebrahimi"
+  status = 301
