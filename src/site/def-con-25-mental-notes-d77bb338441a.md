@@ -1,8 +1,10 @@
 ---
-title: Amazon + Whole Foods Market
+title: "Def Con 25: Mental Notes"
+subtitle: Notes from Def Con 2017
 date: 2017-06-18
 layout: "layouts/post.md"
 ---
+
 After over a decade of excuses, I finally made it out to Def Con. I didn’t know what to expect but that’s why I went and the “Con” didn’t disappoint!
 
 The security community is global and significant. Almost every session I attended was near max capacity and the venue at Caesars Palace is as big as a mega-mall so physical space was not the limiting factor. It is estimated that ~25,000 people attended this year’s Def Con.

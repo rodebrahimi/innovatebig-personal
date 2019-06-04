@@ -1,5 +1,6 @@
 ---
 title: Amazon + Whole Foods Market
+subtitle: 
 date: 2017-06-18
 layout: "layouts/post.md"
 ---
