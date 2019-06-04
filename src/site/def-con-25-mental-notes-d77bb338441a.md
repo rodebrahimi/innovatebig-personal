@@ -1,6 +1,6 @@
 ---
 title: "def con 25: mental notes"
-subtitle: notes from def con 2017
+subtitle: Notes from Def Con 2017
 date: 2017-06-18
 layout: "layouts/post.md"
 tags: post

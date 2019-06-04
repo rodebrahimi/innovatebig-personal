@@ -1,6 +1,6 @@
 ---
 title: writing more
-subtitle: writing is hard
+subtitle: Writing is Hard
 date: 2019-06-03
 tags: post
 ---
