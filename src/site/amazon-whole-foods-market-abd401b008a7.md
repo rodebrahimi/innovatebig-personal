@@ -1,6 +1,6 @@
 ---
-title: Amazon + Whole Foods Market
-subtitle: A Powerful Combination
+title: amazon + whole foods market
+subtitle: a powerful combo
 date: 2017-06-18
 layout: "layouts/post.md"
 tags: post

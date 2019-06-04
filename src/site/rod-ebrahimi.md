@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 layout: layouts/base.njk
 subtitle: Thanks for stopping by. Is this the page you were expecting?
 ---
