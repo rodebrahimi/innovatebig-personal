@@ -3,6 +3,7 @@ title: "Def Con 25: Mental Notes"
 subtitle: Notes from Def Con 2017
 date: 2017-06-18
 layout: "layouts/post.md"
+tags: post
 ---
 
 After over a decade of excuses, I finally made it out to Def Con. I didn’t know what to expect but that’s why I went and the “Con” didn’t disappoint!

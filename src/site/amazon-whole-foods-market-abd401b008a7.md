@@ -1,9 +1,14 @@
 ---
 title: Amazon + Whole Foods Market
-subtitle: 
+subtitle: A Powerful Combination
 date: 2017-06-18
 layout: "layouts/post.md"
+tags: post
 ---
+
+<!--
+![A Whole Foods Market in Redwood City](/images/amazonwholefoodsmarketredwoodcity.jpeg "A Whole Foods Market in Redwood City")
+-->
 
 The impressive thing about Amazon is its relentless experimentation and push into areas beyond their “core” or, rather, what everyone else thinks their “core” is and should be. Amazon’s recent announcement to acquire Whole Foods Market is the best example of this way of thinking since the launch of Amazon Web Services in 2006 — a $3.5 billion top-line revenue business today — that Amazon built from nothing.
 
