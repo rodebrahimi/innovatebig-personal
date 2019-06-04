@@ -3,7 +3,7 @@ title: InnovateBig
 layout: layouts/base.njk
 ---
 
-## Latest Posts
+## Posts
 <ul class="listing">
 {%- for page in collections.post | reverse -%}
   <li>
