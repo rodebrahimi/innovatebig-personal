@@ -5,7 +5,7 @@ templateEngineOverride: njk, md
 ---
 
 <p class="date">
-Written by <a href="/about">Rod</a> on <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
+by <a href="/about">Rod</a> on <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>
 <main>
 {{ content | safe }}
