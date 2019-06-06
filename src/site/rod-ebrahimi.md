@@ -1,7 +1,7 @@
 ---
 title: about
 layout: layouts/base.njk
-subtitle: Thanks for stopping by. Is this the page you were expecting?
+subtitle: Thanks for stopping by. If you're really curious...
 ---
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
