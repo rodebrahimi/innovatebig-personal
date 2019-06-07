@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <ul class="listing">
 {%- for page in collections.post | reverse -%}
   <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
+    <a href="{{ page.url }}">{{ page.data.title }}</a> 
     <time datetime="{{ page.date }}">posted {{ page.date | dateDisplay("LLL d, y") }}</time>
   </li>
 {%- endfor -%}

@@ -23,12 +23,12 @@ body {
   text-align: center;
   background-color: $page-color;
   color: mix($text-color, $page-color, 60%);
-  font-family: helvetica;
-  font-weight: 300;
+  font-family: 'Roboto', helvetica;
+  font-weight: 275;
   font-size: 16px;
   line-height: 1.9;
   min-height: 100vh;
-  letter-spacing: .05em;
+  letter-spacing: .04em;
 //  background-image: url('/images/bg-grid.png');
   @include bp(mid) {
     font-size: 18px;
@@ -74,6 +74,10 @@ h1 {
 p {
   margin-top: 1em;
   margin-bottom: 1em;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+  text-rendering: optimizelegibility !important;
 }
 
 .subtitle {
