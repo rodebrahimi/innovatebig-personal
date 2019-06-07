@@ -4,16 +4,13 @@ pageClass: posts
 templateEngineOverride: njk, md
 ---
 
-<p class="date">
-by <a href="/about">Rod</a> on <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
-</p>
 <main>
+
 {{ content | safe }}
-<!--
-  <div class="footnote">
-    <p>
-      This page is part of the posts section.
-    </p>
-    </div>
-    -->
+
+<div class="footnote">
+  <p class="date">
+    <a href="/about">Rod</a> wrote this on <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
+  </p>
+</div>
 </main>
