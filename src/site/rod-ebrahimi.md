@@ -1,17 +1,13 @@
 ---
 title: about
 layout: layouts/base.njk
-subtitle: Thanks for stopping by...
 ---
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
 
-* I have been building socially-impactful fintech companies since 2010.
-* I once took a traditional wooden boatbuilding class and quickly realized I was no good at it.
-* I enjoy fishing, being out on the ocean, and eating seafood.
-* I have participated in several competitive big game fishing tournaments.
-* I started an internet service provider for small businesses when I was 16 in the early dot-com days.
+* I build and lead socially-impactful [fintech](https://en.wikipedia.org/wiki/Financial_technology) companies.
+* I enjoy seafood and sportfishing (sometimes even competitively).
+* I started an internet service provider when I was 16 in the early dot-com days.
 * I participated in [Y Combinator](https://ycombinator.com) in the Summer of 2010.
-* I enjoy leading talented teams that go on to do measurably impactful work using technology.
-* I have a degree in Cognitive Science and Human-Computer Interaction.
-* Other places you can find me online: [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)
+* I have a degree in [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) specializing in [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction).
+* Connect with me online: [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)
