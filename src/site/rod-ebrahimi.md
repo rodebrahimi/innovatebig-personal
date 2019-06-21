@@ -5,7 +5,7 @@ layout: layouts/base.njk
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
 
-#### a few facts about me for the curious:
+##### some facts about me for the curious:
 * I build and lead socially-impactful [fintech](https://en.wikipedia.org/wiki/Financial_technology) companies.
 * I enjoy seafood and sportfishing (sometimes even competitively).
 * I have been known to collect books by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley).
