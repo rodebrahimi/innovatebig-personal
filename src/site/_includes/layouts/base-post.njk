@@ -7,7 +7,7 @@
     <meta name="keywords" content="Rod Ebrahimi, Ebrahimi" />
     <style>{% include "css/main.css" %}</style>
     <link href='//fonts.googleapis.com/css?family=Roboto&subset=latin,greek,greek-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
-    <title>{{ title }} | rod ebrahimi</title>
+    <title>{{ title }} by rod ebrahimi</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30274763-1"></script>
     <script>
@@ -17,6 +17,7 @@
 
                 gtag('config', 'UA-30274763-1');
     </script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   </head>
   <body class="{{ bodyClass }}" >
     <div class="container">
@@ -40,7 +41,6 @@
       {{ content | safe }}
 
       {% include "footer.njk" %}
-      <script>{% include "js/scripts.js" %}</script>
     </div>
   </body>
 </html>
