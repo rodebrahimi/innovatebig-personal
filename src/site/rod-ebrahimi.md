@@ -5,7 +5,7 @@ layout: layouts/base.njk
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
 
-* I build and lead socially-impactful for profit businesses.
+* I build and lead socially-impactful for profit businesses, most recently as founder/ceo of [Upturn](https://upturncredit.com) while serving as an entrepreneur in residence at [BBVA](https://bbva.com).
 * I enjoy seafood and deep sea sportfishing (sometimes even competitively).
 * I have been known to collect books by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley).
 * I started an internet service provider when I was 16 in the early dot-com days.
