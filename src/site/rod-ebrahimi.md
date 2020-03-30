@@ -5,10 +5,9 @@ layout: layouts/base.njk
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
 
-* I eat too much seafood and go deep sea sportfishing (sometimes competitively).
-* I have been known to collect books by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley).
-* I started an internet service provider when I was 16 in the early dot-com days.
-* I participated in [Y Combinator](https://ycombinator.com) in the Summer of 2010.
-* I have a degree in [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) specializing in [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction).
-* I build socially-impactful digital businesses, most recently as founder/ceo of [Upturn](https://upturncredit.com) a wholly-owned subsidiary of [BBVA](https://bbvausa.com).
-* Connect with me: [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)
+* seafood and deep sea sportfisher (sometimes competitively)
+* collector of books by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)
+* [y combinator](https://ycombinator.com) alumnus
+* degree holder in [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) specializing in [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction).
+* builder of socially-impactful digital businesses, most recently as founder/ceo of [Upturn](https://upturncredit.com) a wholly-owned subsidiary of [BBVA](https://bbvausa.com).
+* online at [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)
