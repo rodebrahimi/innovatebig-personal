@@ -1,5 +1,5 @@
 ---
-title: more fun and games in the enterprise
+title: fun and games in the enterprise
 subtitle: software should be fun to use
 date: 2019-06-22
 tags: post
