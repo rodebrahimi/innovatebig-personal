@@ -8,6 +8,6 @@ layout: layouts/base.njk
 * seafood and deep sea sportfisher (sometimes competitively)
 * collector of books by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)
 * [y combinator](https://ycombinator.com) alumnus
-* degree holder in [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) specializing in [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction).
-* builder of socially-impactful digital businesses, most recently as founder/ceo of [Upturn](https://upturncredit.com) a wholly-owned subsidiary of [BBVA](https://bbvausa.com).
+* studied [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) specializing in [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+* builder of socially-impactful digital businesses, most recently as founder/ceo of [Upturn](https://upturncredit.com) a wholly-owned subsidiary of [BBVA](https://bbvausa.com)
 * online at [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)
