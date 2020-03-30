@@ -5,7 +5,7 @@ layout: layouts/base.njk
 
 ![Rod Ebrahimi](/images/rod-avatar042019.png)
 
-* I eat a lot of seafood and go deep sea sportfishing (sometimes even competitively).
+* I eat too much seafood and go deep sea sportfishing (sometimes competitively).
 * I have been known to collect books by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley).
 * I started an internet service provider when I was 16 in the early dot-com days.
 * I participated in [Y Combinator](https://ycombinator.com) in the Summer of 2010.
