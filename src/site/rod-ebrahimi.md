@@ -10,5 +10,6 @@ layout: layouts/base.njk
 * [Y Combinator](https://ycombinator.com) alumnus
 * started an [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) while in high school to avoid classes and put off college
 * idea explorer, maker of mistakes and imperfect human who edits text with [vi](https://en.wikipedia.org/wiki/Vi)
+* consumer advocate and supporter of local manufacturers [US Made](https://usmadesupply.com)
 * studied [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) and [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 * online at [LinkedIn](https://linkedin.com/in/rodebrahimi), [Twitter](https://twitter.com/innovatebig)
